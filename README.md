@@ -3,9 +3,9 @@
 
 `CURSO: Segurança da Informação`
 
-`DISCIPLINA: Projeto - Projeto de Infraestrutura`
+`DISCIPLINA: Conhecimento da Legislação de Segurança  da Informação`
 
-`Eixo: 5`
+`Etapa: 1`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
