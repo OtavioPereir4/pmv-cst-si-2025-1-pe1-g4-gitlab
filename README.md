@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cR2-nQML)
 # Título do Projeto
 
-`CURSO: Sistemas de Informação`
+`CURSO: Segurança da Informação`
 
 `DISCIPLINA: Projeto - Projeto de Infraestrutura`
 
@@ -11,14 +11,15 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+* Davi Mateus Gaio – 1581196
+* Gabrielle Almeida – 879347
+* Guilherme Augusto Andrade da Silva Borges – 894766
+* Luiz Otávio da Silva Pereira – 883502
+* Nicolas Miller – 806349
+* Roberto Semantob Junior – 890262
 
 ## Orientador
 
-* Nome completo do professor 1
+* Fabio Leandro Rodrigues Cordeiro
 
 
